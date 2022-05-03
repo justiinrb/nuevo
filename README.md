@@ -1,16 +1,17 @@
-# nuevo
+Pasos para crear un proyecto enn flutter
+ir a git bash here 
+sleccionar en que carpeta va a ir el nuevo proyecto
+escribir flutter create y el nombre del proyecto
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Pasos para subir un repositorio a git
+escribir git init 
+luego git add README.md
+luego escribri git commit -m "" y un nombre para tu commit 
+despues git branch -M main
+git remote add origin https://github.com/justiinrb/nuevo.git
 
-A few resources to get you started if this is your first Flutter project:
+agregar todos los cambios con git add .
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+y subirlos con git push
